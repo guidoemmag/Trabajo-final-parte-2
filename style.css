@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-/*header*/
+/*header index*/
 
 .logo{
     font-family: 'Courier New', Courier, monospace;
@@ -12,7 +12,7 @@
     text-align: center;
 }
 
-/* animacion logo*/
+/* animacion logo index*/
 .logo:hover{
     animation: changeColor 2s;
 }
@@ -114,7 +114,7 @@
     list-style: none;
 }
 
-/*main*/
+/*main index*/
 
 .h1-carousel{
     color: black;
@@ -126,5 +126,23 @@
 }
 
 
-/*juegos.html*/
+/*footer index*/
+
+.footer{
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.footer-t{
+    list-style: none;
+    font-family:'Courier New', Courier, monospace
+}
+
+
+
+
+
+
 
